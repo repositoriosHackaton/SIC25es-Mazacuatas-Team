@@ -1,7 +1,7 @@
 # SIC25es-Mazacuatas-Team
 Reciban un saludo de parte de nuestro equipo!
 
-Es un gusto introducir una proyecto útil para nuestra vida cotidiana. 
+Es un gusto introducir un proyecto útil para nuestra vida cotidiana. 
 Consideramos urgente una herramienta tecnologica que incentive habitos en pro del medio ambiente 
 ya que es el propósito principal de la Tecnología y como futuros Ingenieros, consideramos 
 impresendible generar ideas en base a esa premisa.
