@@ -13,5 +13,8 @@ dar a lo obtenido.
 Es un proyecto con mucho potencial el cual estamos tratando de explotar al mismo tiempo que aprendemos
 sobre el desarrollo con IA. 
 
+Recursos del proyecto: Modelo y Dataset
+https://drive.google.com/drive/folders/1ePtMQuud0tQ2GGoRo7-dLjaW-nmFjZFL?usp=sharing
+
 ****************************************** Proyecto en avance ************************************************
 ****************************************** DEVELOPERS WORKING HERE !******************************************
